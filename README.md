@@ -2,7 +2,7 @@
 
 A game i made in C# that runs in the console
 
-#Installation
+# Installation
 
 download the release, unzip and play, no installation required!
 
